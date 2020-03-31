@@ -7,8 +7,12 @@ To Run the application:
 $ pip install -r requirements.txt
 
 $ sudo apt-get update
+
 $ sudo apt-get install mysql-server
+
 $ sudo -i
+
+Inside the mysql cli
 $ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '<any-password>'; 
 
 Now just import the `Dump202000401.sql` database file in MySql WorkBench and start the service.
