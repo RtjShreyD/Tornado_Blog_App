@@ -7,7 +7,7 @@ google==2.0.3
 greenlet==0.4.15
 Jinja2==2.11.1
 Markdown==3.2.1
-markdown2==2.3.8
+markdown2==2.4.0
 MarkupSafe==1.1.1
 mongokit-py3==0.9.1.1
 peewee==3.13.2
